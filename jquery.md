@@ -50,7 +50,7 @@ $(document).ready(function(){
 <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
 
 ```
-
+資料來源:http://www.w3school.com.cn/jquery/jquery_animate.asp
 ###
 ```
 <html>
